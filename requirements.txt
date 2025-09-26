@@ -1,0 +1,8 @@
+streamlit 
+requests 
+fastapi 
+uvicorn
+exa-py
+groq
+python-dotenv
+nest_asyncio
